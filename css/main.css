@@ -144,10 +144,22 @@ h1 {
 
 /* Introduktion */
 
+.image {
+  border: 2px black solid;
+}
+
+img {
+  width: 100%;
+}
+
 /*Blog */
 
-h2 {
+h4 {
   font-family: 'Poppins', Helvetica, sans-serif
+}
+
+.dato {
+  margin: 0;
 }
 
 
